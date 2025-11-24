@@ -4,26 +4,61 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nogx01/nogx01/output/pacman-contribution-graph.svg">
 </picture>
 
+
 ###
 
-<h1 align="left">Oi 👋 Tudo certo?</h1>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
+###
+
+<h1 align="left">Oi, Tudo certo?</h1>
 
 ###
 
 <p align="left">Meu nome é Thalles e sou um entusiasta curioso por tecnologia, do Brasil.</p>
 
+## 
+
+<h1 align="left">Meu projeto:</h1>
+
+<img align="right" height="150" src="https://i.imgur.com/d7KJgYE.gif"  />
+
+###
+
+
+<p align="left">
+ Eu sou o desenvolvedor da Cisum, uma bot criada para o Discord com muito carinho.  
+No início, ela nasceu como uma bot de música, mas precisou se adaptar às novas diretrizes e questões de direitos autorais.  
+
+Hoje, a Cisum traz economia, diversão, coleção e moderação para os servidores — tudo em fase experimental e feita apenas por diversão.  
+Cada comando é uma forma de aprender e evoluir!  
+
+Agradeço de coração a todos que interagem, testam e ajudam a Cisum a crescer.  
+Vocês fazem parte dessa história 💚
+
+[![Cisum Bot](https://img.shields.io/badge/Cisum%20Bot-Acessar%20Site-0984e3?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cisumbot.netlify.app/)
+
+</p>
+
 ###
 
 <h2 align="left">Sobre mim</h2>
 
-###
-
 <p align="left">
-  ✨ Criando bugs desde que comecei a explorar bots no Discord<br>
-  📚 Atualmente estou aprendendo JavaScript, HTML, CSS e bancos de dados<br>
-  🎯 Objetivos: Expandir meus conhecimentos através de projetos práticos e aprendizado autodidata<br>
-  🎲 Curiosidade: Aprendi inglês jogando videogame e depois aperfeiçoei com cursos
+  • Criando bugs desde que comecei a explorar bots no Discord<br>
+  • Atualmente estou aprendendo 
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> 
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/> 
+    e bancos de dados<br>
+  • Objetivos: Expandir meus conhecimentos através de projetos práticos e aprendizado autodidata<br>
+  • Curiosidade: Aprendi inglês jogando videogame e depois aperfeiçoei com cursos
 </p>
+
 
 ###
 
